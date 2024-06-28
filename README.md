@@ -23,9 +23,9 @@ npm run build
 npm run lint
 ```
 
-### Screenshot
-
-![vue_scissor_rock_paper](https://github.com/kaian9804/rock_paper_scissors/assets/34164281/4a15a776-0cb8-421c-9900-1e1ece6d7315)
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Screenshot
+
+![vue_scissor_rock_paper](https://github.com/kaian9804/rock_paper_scissors/assets/34164281/4a15a776-0cb8-421c-9900-1e1ece6d7315)
